@@ -1,6 +1,6 @@
-# restore utility fix from the dump/restore utilities
+# `restore` utility fix from the dump/restore utilities
 
-Details on the [wiki](https://github.com/seborama/raspberrypi/wiki/Dump-Restore-crash-fix-update).
+Background details on the [wiki](https://github.com/seborama/raspberrypi/wiki/Dump-Restore-crash-fix-update).
 
 ## Instructions
 
